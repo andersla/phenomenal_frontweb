@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "xx commit"
+git remote add origin https://github.com/andersla/phenomenal_frontweb.git
+git push -u origin master
